@@ -1,6 +1,7 @@
 $(document).ready(function() {
     // process bar
     setTimeout(function() {
+        audio.play();
         firstQuestion();
         $('.spinner').fadeOut();
         $('#preloader').delay(350).fadeOut('slow');
@@ -13,7 +14,7 @@ var audio = new Audio('../sound/start.mp3');
 var audio1 = new Audio('../sound/ting.mp3');
 var audio2 = new Audio('../sound/sound.mp3');
 var audio3 = new Audio('../sound/yes.mp3');
-audio.play();
+
 
 function firstQuestion(){
     $('.content').hide();
@@ -102,7 +103,7 @@ $('#yes').click(function() {
         //width: 900,
         padding: '3em',
         background: `url("../img/or.jpg")`,
-        text: "Thường thì mọi người sẽ tặng em 1 món quà, nhưng mà anh là người tham lam, anh tặng 3 món luôn, mở từ từ thoi nha :))) Hình như 2 hộp quà đầu tiên nằm ở bên ngoài kìa, quay lại xem thử..",
+        text: "Thường thì mọi người sẽ tặng em 1 món quà, nhưng mà anh là người tham lam, anh tặng 3 món luôn, mở từ từ thoi nha :))) Hình như 2 hộp quà đầu tiên nằm ở bên ngoài kìa, quay lại xem thử..(nhớ kéo xuống dưới cùng nhen)",
         backdrop: `
             rgba(0,0,123,0.4)
             url("../img/giphy2.gif")
