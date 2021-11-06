@@ -121,7 +121,7 @@ $('#yes').click(function() {
         if (result.value) {
             Swal.fire({
                 width: 900,
-                confirmButtonText: 'Okiiiii lun <3',
+                confirmButtonText: 'Em yeu anhhhhh <3',
                 confirmButtonColor: '#3085d6',
                 confirmButtonColor: '#fe8a71',
                 background: 'url("../img/or.jpg")',
