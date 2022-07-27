@@ -125,8 +125,8 @@ $('#yes').click(function() {
                 confirmButtonColor: '#3085d6',
                 confirmButtonColor: '#fe8a71',
                 background: 'url("../img/or.jpg")',
-                title: 'Món quà cuối đang đợi gap em nheeeee',
-                text: "Em giỏi đoán nhma ko đoán được món quà này đau keke :>> Lần đầu anh làm mấy cái này nên là ko được xịn xò cho lắm, nhưng mà tâm huyết thì tới cuc cut luôn nhe, anh thật sự để tâm vào làm cho bé đó, hi vọng bé sẽ thích hihi :3. Chắc là muốn nhắn cho anh lắm roai chu gie hehee. À à còn nữa, chúc em và tuổi 19 thiệt nà hạnh fúc và trọn vẹn nheee ",
+                title: 'Món quà cuối là 1 trang web khác nữa :)))))',
+                text: "Bất ngờ lắm chớ giề :>> Làm lại cái này nhớ em mún chet lun :<< Bấm vào nút bên dưới để đi đến món quà cúi cùng nhó <3 À à còn nữa, chúc em và tuổi 19 thiệt nà hạnh fúc và trọn vẹn nheee, mãi iu em pé của anhhhhh moaz moaz moazzzz ",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
                     window.location = 'https://www.facebook.com/tonhuy.hlt/';
