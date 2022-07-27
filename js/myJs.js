@@ -20,7 +20,7 @@ function firstQuestion(){
     $('.content').hide();
     Swal.fire({
         title: 'Hé looo',
-        text: 'Nhân dịp ngày đặc biệt nì, đây là 1 món quà nho nhỏ tặng cho babi của anh, have fun nhaa 😄',
+        text: 'Nhân dịp ngày đặc biệt nì, đây là 1 món quà nho nhỏ tặng cho vợ iu của anh, have fun nhaa 😄',
         imageUrl: '../img/baby.jpg',
         imageWidth: 300,
         imageHeight: 290,
