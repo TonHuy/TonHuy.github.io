@@ -106,7 +106,7 @@ header h4 {
 }
 
 .flip-box1:hover .flip-box-inner1 {
-  transform: rotateY(180deg);
+  transform: rotateX(180deg);
 }
 
 .flip-box-front1 {
