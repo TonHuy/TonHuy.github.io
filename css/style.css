@@ -188,10 +188,9 @@ header h4 {
 }
 
 .img {
-  width: 10px;
+  width: 80%;
   height: 345px;
   margin-top: 10px;
-	 background-color: #FF6666;
 }
 
 .img2 {
