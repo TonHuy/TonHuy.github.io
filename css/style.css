@@ -184,7 +184,7 @@ header h4 {
 .flip-box-back2 {
   background-color: #FF6666;
   color: white;
-  transform: rotateY(180deg);
+  transform: rotateX(180deg);
 }
 
 .img {
