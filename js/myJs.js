@@ -103,7 +103,7 @@ $('#yes').click(function() {
         //width: 900,
         padding: '3em',
         background: `url("../img/or.jpg")`,
-        text: "Thường thì mọi người sẽ tặng em 1 món quà, nhưng mà anh là người tham lam, anh tặng 3 món luôn, mở từ từ thoi nha :))) Hình như 2 hộp quà đầu tiên nằm ở bên ngoài kìa, quay lại xem thử..(nhớ kéo xuống dưới cùng nhen)",
+        text: "Thường thì mọi người sẽ tặng em 1 món quà, nhưng mà anh là người tham lam, anh tặng 3 món luôn, mở từ từ thoi nha :))) Hình như 2 hộp quà đầu tiên nằm ở bên ngoài kìa, em quay lại xem thử..",
         backdrop: `
             rgba(0,0,123,0.4)
             url("../img/giphy2.gif")
@@ -129,7 +129,7 @@ $('#yes').click(function() {
                 text: "Bất ngờ lắm chớ giề :>> Làm lại cái này nhớ em mún chet lun :<< Bấm vào nút bên dưới để đi đến món quà cúi cùng nhó <3 À à còn nữa, chúc em và tuổi 19 thiệt nà hạnh fúc và trọn vẹn nheee, mãi iu em pé của anhhhhh moaz moaz moazzzz ",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'https://www.facebook.com/tonhuy.hlt/';
+                    window.location = 'https://studybeatsfm.netlify.app/';
                   }
             })
         }
