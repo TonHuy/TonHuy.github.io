@@ -151,8 +151,8 @@ header h4 {
   text-align: center;
   transition: transform 0.8s;
   transform-style: preserve-3d;
-  left:95em;
-  top:14em;
+  left:90em;
+  top:5em;
 }
 
 .flip-box2:hover .flip-box-inner2 {
